@@ -32,8 +32,3 @@ Web development work in a startup company
 </p>
 </details>
 
-### Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23db7093?style=flat-square&logo=Sass&logoColor=white)
-![React](https://img.shields.io/badge/React-61Dafb?style=flat-square&logo=React&logoColor=white)
-
