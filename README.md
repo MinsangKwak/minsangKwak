@@ -18,8 +18,8 @@ I'm constantly learning JavaScript, and recently I'm learning React
 
 ### Work Experience
 
-<details open>
-<summary markdown="1">2021 ~ </summary>
+<details markdown="1">
+<summary>2021 ~ </summary>
 <a href="https://whois.co.kr/"> WHOIS, Company-affiliated research institute </a> <br/>
 </details>
 <details markdown="1">
