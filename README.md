@@ -6,12 +6,13 @@
 <h1>:rocket: Hi! Nice to See you.</h1>
 <p>
 I'm Junior Front-End Software Engineer :zap:</br>
-I'm constantly learning JavaScript, and recently I'm learning React
+I'm constantly learning JavaScript, and recently I'm learning Vue
 </p>
 
 ### Recent Interest
 
--   JavaScript(ES6+), JavaScript Library(React), Framework(Vue)
+-   JavaScript(ES6+), TypeScript
+-   JavaScript Library(React), Framework(Vue)
 -   Web accesibility
 -   Communication, Conversation
 -   New Relationship
