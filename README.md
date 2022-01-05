@@ -20,7 +20,8 @@ I'm constantly learning JavaScript, and recently I'm learning Vue
 ### Work Experience
 
 <details markdown="1">
-<summary>2021 ~ </summary>
+<summary>2021</summary>
+<a href="https://www.delio.io/"> Delio, Front-end Development Team </a> <br/>
 <a href="https://whois.co.kr/"> WHOIS, Company-affiliated research institute </a> <br/>
 </details>
 <details markdown="1">
