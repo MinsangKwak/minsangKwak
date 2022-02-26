@@ -11,17 +11,18 @@ I'm constantly learning JavaScript, and recently I'm learning Vue
 
 ### Recent Interest
 
--   JavaScript(ES6+), TypeScript
--   JavaScript Library(React), Framework(Vue)
--   Web accesibility
--   Communication, Conversation
--   New Relationship
+- JavaScript(ES6+), TypeScript
+- JavaScript Library(React), Framework(Vue)
+- Web accesibility
+- Communication, Conversation
+- New Relationship
 
 ### Work Experience
 
 <details markdown="1">
+<summary>2022</summary>
+<a href="https://whois.co.kr/"> Publisher company </a> <br/>
 <summary>2021</summary>
-<a href="https://www.delio.io/"> Delio, Front-end Development Team </a> <br/>
 <a href="https://whois.co.kr/"> WHOIS, Company-affiliated research institute </a> <br/>
 </details>
 <details markdown="1">
