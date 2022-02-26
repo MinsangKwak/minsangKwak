@@ -26,7 +26,7 @@ I want to grow more and more!
 
 <details markdown="1">
     <summary>2022</summary>
-    <p>2022 ~ | Publisher company </p>
+    <p>Publisher company </p>
 </details>
 <details markdown="1">
     <summary>2021 ~ 2018</summary>
