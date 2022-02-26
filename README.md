@@ -30,7 +30,5 @@ I want to grow more and more!
 </details>
 <details markdown="1">
     <summary>2021 ~ 2018</summary>
-    <p>WHOIS, Company-affiliated research institute </p>
-    <p>FUZ, UX&middot;UI Development Team </p>
-    <p>Web development work in a startup company </p>
+    <p>WHOIS, Company-affiliated research institute <br />FUZ, UX&middot;UI Development Team <br />Web development work in a startup company </p>
 </details>
