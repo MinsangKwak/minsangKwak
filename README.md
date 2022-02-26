@@ -20,18 +20,20 @@ I'm constantly learning JavaScript, and recently I'm learning Vue
 ### Work Experience
 
 <details markdown="1">
-<summary>2022</summary>
-<a href="https://whois.co.kr/"> Publisher company </a> <br/>
-<summary>2021</summary>
-<a href="https://whois.co.kr/"> WHOIS, Company-affiliated research institute </a> <br/>
+    <summary>2022</summary>
+    <a href=""> Publisher company </a> <br/>
 </details>
 <details markdown="1">
-<summary>2019 ~ 2020</summary>
-<a href="https://www.fuz.co.kr/"> FUZ, UX&middot;UI Development Team </a> <br/>
+    <summary>2021</summary>
+    <a href="https://whois.co.kr/"> WHOIS, Company-affiliated research institute </a> <br/>
 </details>
 <details markdown="1">
-<summary>2018 ~ 2019</summary>
-<p>
-Web development work in a startup company
-</p>
+    <summary>2019 ~ 2020</summary>
+    <a href="https://www.fuz.co.kr/"> FUZ, UX&middot;UI Development Team </a> <br/>
+</details>
+<details markdown="1">
+    <summary>2018 ~ 2019</summary>
+    <p>
+    Web development work in a startup company
+    </p>
 </details>
