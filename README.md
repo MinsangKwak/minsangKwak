@@ -26,11 +26,11 @@ I want to grow more and more!
 
 <details markdown="1">
     <summary>2022</summary>
-    <p>2022 ~  Publisher company </p>
+    <p>2022 ~ | Publisher company </p>
 </details>
 <details markdown="1">
     <summary>2021 ~ 2018</summary>
-    <a href="https://whois.co.kr/">2021 ~ 2021.10 WHOIS, Company-affiliated research institute </a> <br/>
-    <a href="https://www.fuz.co.kr/">2019 ~ 2020.09 FUZ, UX&middot;UI Development Team </a> <br/>
-    <p>2018 ~ 2019 Web development work in a startup company </p>
+    <p>WHOIS, Company-affiliated research institute </p>
+    <p>FUZ, UX&middot;UI Development Team </p>
+    <p>Web development work in a startup company </p>
 </details>
