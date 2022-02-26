@@ -5,14 +5,19 @@
 
 <h1>:rocket: Hi! Nice to See you.</h1>
 <p>
-I'm Junior Front-End Software Engineer :zap:</br>
-I'm constantly learning JavaScript, and recently I'm learning Vue
+I'm Junior Software Engineer :zap:</br>
+I want to grow more and more!
 </p>
+
+### Who Am I
+
+- I am interested in software development and computer science.
+- Recently, I entered the Department of Computer Science and I am working and doing college at the same time.
 
 ### Recent Interest
 
 - JavaScript(ES6+), TypeScript
-- JavaScript Library(React), Framework(Vue)
+- JavaScript Library(React)
 - Web accesibility
 - Communication, Conversation
 - New Relationship
@@ -21,19 +26,11 @@ I'm constantly learning JavaScript, and recently I'm learning Vue
 
 <details markdown="1">
     <summary>2022</summary>
-    <a href=""> Publisher company </a> <br/>
+    <p>2022 ~  Publisher company </p>
 </details>
 <details markdown="1">
-    <summary>2021</summary>
-    <a href="https://whois.co.kr/"> WHOIS, Company-affiliated research institute </a> <br/>
-</details>
-<details markdown="1">
-    <summary>2019 ~ 2020</summary>
-    <a href="https://www.fuz.co.kr/"> FUZ, UX&middot;UI Development Team </a> <br/>
-</details>
-<details markdown="1">
-    <summary>2018 ~ 2019</summary>
-    <p>
-    Web development work in a startup company
-    </p>
+    <summary>2021 ~ 2018</summary>
+    <a href="https://whois.co.kr/">2021 ~ 2021.10 WHOIS, Company-affiliated research institute </a> <br/>
+    <a href="https://www.fuz.co.kr/">2019 ~ 2020.09 FUZ, UX&middot;UI Development Team </a> <br/>
+    <p>2018 ~ 2019 Web development work in a startup company </p>
 </details>
