@@ -26,7 +26,7 @@ I want to grow more and more!
 
 <details markdown="1">
     <summary>2022</summary>
-    <p>Publisher company </p>
+    <a href="https://www.imath.tv/" >Wonriedu</a>
 </details>
 <details markdown="1">
     <summary>2021 ~ 2018</summary>
