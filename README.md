@@ -12,7 +12,7 @@ I want to grow more and more!
 ### Who Am I
 
 - I am interested in software development and computer science.
-- Recently, I entered the Department of Computer Science and I am working and doing college at the same time.
+- In order to broaden my experience in development, I recently entered the Department of Computer Science and am attending work and university at the same time.
 
 ### Recent Interest
 
@@ -25,8 +25,8 @@ I want to grow more and more!
 ### Work Experience
 
 <details markdown="1">
-    <summary>2022</summary>
-    <a href="https://www.imath.tv/" >Wonriedu</a>
+    <summary>2022 ~ </summary>
+    <a href="https://www.imath.tv/" >Wonriedu, Development Team</a>
 </details>
 <details markdown="1">
     <summary>2021 ~ 2018</summary>
