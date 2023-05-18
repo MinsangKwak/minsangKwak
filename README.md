@@ -25,10 +25,18 @@ I want to grow more and more!
 ### Work Experience
 
 <details markdown="1">
-    <summary>2022 ~ </summary>
+    <summary>2023 ~</summary>
+    <p>Web development work in a financial company </p>
+</details>
+<details markdown="1">
+    <summary>2022 ~ 2023</summary>
     <a href="https://www.imath.tv/" >Wonriedu, Development Team</a>
 </details>
 <details markdown="1">
     <summary>2021 ~ 2018</summary>
     <p>WHOIS, Company-affiliated research institute <br />FUZ, UX&middot;UI Development Team <br />Web development work in a startup company </p>
 </details>
+
+### Recently attended events
+
+<a href="https://www.imath.tv/](https://techit.education/event/ddcon_dev_vod)" >DDC 2023: Dev Day / TECHIT BY LIKELION</a>
