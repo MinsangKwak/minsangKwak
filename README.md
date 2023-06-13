@@ -39,4 +39,4 @@ I want to grow more and more!
 
 ### Recently attended events
 
-<a href="https://www.imath.tv/](https://techit.education/event/ddcon_dev_vod)" >DDC 2023: Dev Day / TECHIT BY LIKELION</a>
+<a href="https://techit.education/event/ddcon_dev_vod" >DDC 2023: Dev Day / TECHIT BY LIKELION</a>
