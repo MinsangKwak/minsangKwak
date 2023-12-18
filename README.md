@@ -24,19 +24,15 @@ I want to grow more and more!
 
 ### Work Experience
 
-<details markdown="1">
-    <summary>2023 ~ current</summary>
-    <a href="https://www.niceinfo.co.kr/main.nice">NICE Information Service, Platform Business Team</a>
-</details>
-<details markdown="1">
-    <summary>2022 ~ 2023</summary>
-    <a href="https://www.imath.tv/" >Wonriedu, Development Team</a>
-</details>
-<details markdown="1">
-    <summary>2021 ~ 2018</summary>
-    <p>WHOIS, Company-affiliated research institute <br />FUZ, UX&middot;UI Development Team <br />Web development work in a startup company </p>
-</details>
+#### 2023 ~ 현재
+- [NICE Information Service, Platform Business Team](https://www.niceinfo.co.kr/main.nice)
 
-### Recently attended events
+#### 2022 ~ 2023
+- [Wonriedu, Development Team](https://www.imath.tv/)
 
+#### 2018 ~ 2021
+- [WHOIS, Company-affiliated research institute](https://domain.whois.co.kr/)
+- [FUZ, UX·UI Development Team](https://www.fuz.co.kr/)
+
+#### Recently attended events
 <a href="https://techit.education/event/ddcon_dev_vod" >DDC 2023: Dev Day / TECHIT BY LIKELION</a>
