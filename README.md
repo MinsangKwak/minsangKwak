@@ -25,8 +25,8 @@ I want to grow more and more!
 ### Work Experience
 
 <details markdown="1">
-    <summary>2023 ~</summary>
-    <p>Web development work in a financial company </p>
+    <summary>2023 ~ current</summary>
+    <a href="https://www.niceinfo.co.kr/main.nice">NICE Information Service, Platform Business Team</a>
 </details>
 <details markdown="1">
     <summary>2022 ~ 2023</summary>
