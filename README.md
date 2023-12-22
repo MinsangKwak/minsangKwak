@@ -5,34 +5,46 @@
 
 <h1>:rocket: Hi! Nice to See you.</h1>
 <p>
-I'm Junior Software Engineer :zap:</br>
+I'm Software Engineer :zap:</br>
 I want to grow more and more!
 </p>
 
 ### Who Am I
 
 - I am interested in software development and computer science.
-- In order to broaden my experience in development, I recently entered the Department of Computer Science and am attending work and university at the same time.
+- In order to broaden my experience in development, <br/> I recently entered the Department of Computer Science and am attending work and university at the same time.
 
 ### Recent Interest
 
-- JavaScript(ES6+), TypeScript
-- JavaScript Library(React)
+- JavaScript(ES6+), Java
+- React.js, Spring Boot
 - Web accesibility
 - Communication, Conversation
 - New Relationship
 
 ### Work Experience
 
-#### 2023 ~ 현재
-- [NICE Information Service, Platform Business Team](https://www.niceinfo.co.kr/main.nice)
+<details markdown="1">
+    <summary>2023 ~ 현재</summary>
+    <ul>
+        <li>[NICE Information Service, Platform Business Team](https://www.niceinfo.co.kr/main.nice)</li>
+    </ul>
+</details>
 
-#### 2022 ~ 2023
-- [Wonriedu, Development Team](https://www.imath.tv/)
+<details markdown="1">
+    <summary>2022 ~ 2023</summary>
+    <ul>
+        <li>[Wonriedu, Development Team](https://www.imath.tv/)</li>
+    </ul>
+</details>
 
-#### 2018 ~ 2021
-- [WHOIS, Company-affiliated research institute](https://domain.whois.co.kr/)
-- [FUZ, UX·UI Development Team](https://www.fuz.co.kr/)
+<details markdown="1">
+    <summary>2021 ~ 2018</summary>
+    <ul>
+        <li>[WHOIS, Company-affiliated research institute](https://domain.whois.co.kr/)</li>
+        <li>[FUZ, UX·UI Development Team](https://www.fuz.co.kr/)</li>
+    </ul>
+</details>
 
 #### Recently attended events
 <a href="https://techit.education/event/ddcon_dev_vod" >DDC 2023: Dev Day / TECHIT BY LIKELION</a>
