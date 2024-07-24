@@ -16,11 +16,10 @@ I want to grow more and more!
 
 ### Recent Interest
 
-- JavaScript(ES6+), Java
-- React.js, Spring Boot
+- JavaScript(ES6+), TypeScript
+- Vue.js, Vite, Cypress
 - Web accesibility
 - Communication, Conversation
-- New Relationship
 
 ### Work Experience
 
