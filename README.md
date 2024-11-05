@@ -17,7 +17,7 @@ I want to grow more and more!
 ### Recent Interest
 
 - JavaScript(ES6+), TypeScript
-- Vue.js, Vite, Cypress
+- React.js, Vite, Cypress
 - Web accesibility
 - Communication, Conversation
 
