@@ -13,17 +13,52 @@ I want to grow more and more!
 - I am interested in software development and computer science.
 - In order to broaden my experience in development, <br/> I recently entered the Department of Computer Science and am attending work and university at the same time.
 
-### Recent Interest
+### Core Strengths
+| Area                           | Strengths                                                        |
+| ------------------------------ | ---------------------------------------------------------------- |
+| **UI/UX Design**               | Component-based architecture, design systems, responsive layout  |
+| **JavaScript (ES6+)**          | Global interaction modules for authentication, modals, timers    |
+| **Web Accessibility**          | Keyboard & screen-reader support, ARIA architecture, thorough QA |
+| **Performance Optimization**   | Achieved **25 % faster load times** in the “Nalgae” project      |
+| **Collaboration & Leadership** | Led 60 + projects as PL/PM; teamwork driven by Jira & Figma      |
 
-- JavaScript(ES6+), TypeScript
-- React.js, Vite, Cypress
-- Web accesibility
-- Communication, Conversation
+
+### Tech Stack
+
+- **Languages & Frameworks**  
+  - JavaScript (ES6+)  
+  - TypeScript *(learning)*  
+  - React · Next.js *(learning)* · Vite  
+  - Nest.js *(learning – API layer)*  
+  - HTML5 · CSS3 (SCSS/SASS) · TailwindCSS  
+
+- **State & Data Layer**  
+  - React Query *(learning)*, Jotai *(learning)*, Zustand  
+  - RESTful APIs · GraphQL *(learning)*  
+
+- **Testing & Quality**  
+  - Cypress *(learning)* · Jest  
+  - Storybook *(learning)*  
+  - ESLint · Prettier  
+
+- **Tooling & Collaboration**  
+  - Git / GitHub / SVN  
+  - GitHub Actions *(learning – CI/CD)*  
+  - Jira · Confluence · Figma · Notion  
+  - VSCode  
+
 
 ### Work Experience
 
 <details markdown="1">
-    <summary>2023 ~ 현재</summary>
+    <summary>2025 ~ Current</summary>
+    <ul>
+        <li>[Pangyo New Town, UX/UI Team]</li>
+    </ul>
+</details>
+
+<details markdown="1">
+    <summary>2023 ~ 2025</summary>
     <ul>
         <li>[NICE Information Service, Platform Business Team](https://www.niceinfo.co.kr/main.nice)</li>
     </ul>
