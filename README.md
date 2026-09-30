@@ -90,10 +90,10 @@
 
 ### 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MinsangKwak&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![MinsangKwak's GitHub stats](https://github-stats-extended.vercel.app/api?username=MinsangKwak&show_icons=true&theme=transparent)](https://github.com/MinsangKwak)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=MinsangKwak&layout=compact&theme=transparent&hide=html,css,scss)](https://github.com/MinsangKwak)
 
-[![MinsangKwak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinsangKwak&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinsangKwak&layout=compact&theme=transparent&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MinsangKwak&theme=transparent)](https://github.com/MinsangKwak)
 
 ### 🐾 GitAnimals
 
