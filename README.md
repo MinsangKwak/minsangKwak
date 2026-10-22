@@ -7,7 +7,7 @@
 금융 서비스의 복잡한 사용자 흐름을 공통 UI와 접근성 있는 화면으로 정리해 왔습니다.
 지금은 React·Next.js·TypeScript로 직접 서비스를 만들고, 사용자 피드백을 받아 고칩니다.
 
-**[📂 포트폴리오](https://kwakminsang.notion.site/overview)** · [Blog](https://minsangkwak.github.io/) · [Email](mailto:minsangwork0821@gmail.com)
+**[📂 포트폴리오](https://kwakminsang.notion.site/overview)** · [Email](mailto:minsangwork0821@gmail.com)
 
 | 01 / UI Architecture | 02 / Accessibility | 03 / Build & Operate |
 | --- | --- | --- |
