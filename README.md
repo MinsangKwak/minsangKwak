@@ -1,13 +1,13 @@
 # Minsang Kwak · 곽민상
 
-**UI 개발 · 웹 퍼블리싱 · 프론트엔드 개발**
+**웹 퍼블리셔 · 프론트엔드 개발자 | 금융 서비스 UI · 웹 접근성 · React·TypeScript**
 
 ### 사용하기 쉬운 화면, 이어가기 좋은 코드.
 
 금융 서비스의 복잡한 사용자 흐름을 공통 UI와 접근성 있는 화면으로 정리해 왔습니다.
 지금은 React·Next.js·TypeScript로 직접 서비스를 만들고, 사용자 피드백을 받아 고칩니다.
 
-**[📂 포트폴리오](https://kwakminsang.notion.site/overview)** · [Email](mailto:minsangwork0821@gmail.com)
+**[📂 포트폴리오](https://kwakminsang.notion.site/overview)** · [minsangwork0821@gmail.com](mailto:minsangwork0821@gmail.com) · [010-9816-9939](tel:01098169939)
 
 | 01 / UI Architecture | 02 / Accessibility | 03 / Build & Operate |
 | --- | --- | --- |
@@ -16,19 +16,19 @@
 ### 🗺 프로젝트로 보는 경험의 범위
 
 금융 화면을 구현하던 경험에서 시작해 서비스 운영, 자동화, 계산 로직, 서버 이해까지 넓혀 왔습니다.
-아래 순서는 시작한 시점이 아니라 **읽으면 좋은 순서**입니다. 서비스 전체를 연결한 moncamp를 먼저 보고, 나머지는 각자 깊게 판 주제로 보시면 됩니다.
+**moncamp에서 서비스 전체를 연결한 경험을 먼저 확인하고, 자동화 → 문제 해결 → 백엔드 이해 순으로 살펴보실 수 있습니다.** 각 프로젝트는 기술의 개수보다 해결한 문제와 검증 근거를 중심으로 정리했습니다.
 
 | 프로젝트 | 집중한 경험 | 확인할 내용 |
 | --- | --- | --- |
-| [moncamp](#01-moncamp--서비스-하나를-기획부터-운영까지) | 서비스 전체 설계·구현·운영 | 기획과 디자인 시스템이 화면·API·QA·배포로 이어진 과정 |
-| [대한민국 조간](#02-대한민국-조간--매일-반복되는-발행을-자동화하기) | 반복 업무의 자동화 | 자료·초안 → 검사 → 발행·배포, 실패하면 멈추는 기준과 정정 |
-| [subway-midpoint](#03-subway-midpoint--공평한-만남을-계산-기준으로-바꾸기) | 문제를 계산 로직으로 구현 | 추천 기준, 노선 모델, 최단경로와 React 상태 관리 |
-| [Spring MVC](#04-spring-mvc--화면-밖의-서버-동작-이해하기) | 백엔드 요청·응답 이해 | 전송 방식별 바인딩, 서버 검증과 오류 응답 비교 |
+| [moncamp](#moncamp) | 서비스 전체 설계·구현·운영 | 기획과 디자인 시스템이 화면·API·QA·배포로 이어진 과정 |
+| [대한민국 조간](#korea-jogan) | 반복 업무의 자동화 | 자료·초안 → 검사 → 발행·배포, 실패하면 멈추는 기준과 정정 |
+| [subway-midpoint](#subway-midpoint) | 문제를 계산 로직으로 구현 | 추천 기준, 노선 모델, 최단경로와 React 상태 관리 |
+| [Spring MVC](#spring-mvc) | 백엔드 요청·응답 이해 | 전송 방식별 바인딩, 서버 검증과 오류 응답 비교 |
 
 ### 💼 Experience
 
 🏦 **금융결제원 · UX/UI팀** (2025.06 ~ 현재)
-국세 납부 POS 21개 화면, 은행 공동망 본인확인서비스, 어카운트인포 PC 웹 141개 화면을 새로 구축했습니다. 홈페이지와 대외 서비스 22개의 화면 수정·리팩터링·리소스 최적화도 맡고 있습니다.
+국세 납부 POS 21개 화면, 은행 공동망 본인확인서비스 7개 HTML 화면, 어카운트인포 PC 웹 141개 화면의 UI를 구축했습니다. 홈페이지와 대외 서비스 22개의 화면 수정·리팩터링·리소스 최적화도 맡고 있습니다.
 
 🔐 **NICE평가정보 · 플랫폼사업실** (2023.05 ~ 2025.05)
 통신 3사·MVNO로 흩어진 인증 흐름을 공통 구조로 묶고, jQuery 의존 코드를 ES6로 옮겼습니다. 웹폰트를 정리해 LCP를 약 3초에서 1초대로 줄였습니다(Lighthouse 기록 기준). 올리미와 카드사 제휴 서비스를 개발·운영했습니다.
@@ -46,6 +46,8 @@ Next.js·React·TypeScript·Sass로 반응형 교육 웹서비스 UI를 구축�
 프로젝트마다 **붙잡은 질문 → 왜 만들었나 → 어떻게 풀었나 → 무엇으로 확인했나** 순서로 적었습니다.
 
 ---
+
+<a id="moncamp"></a>
 
 #### 01. moncamp — 서비스 하나를 기획부터 운영까지
 
@@ -74,6 +76,8 @@ Next.js·React·TypeScript·Sass로 반응형 교육 웹서비스 UI를 구축�
 
 ---
 
+<a id="korea-jogan"></a>
+
 #### 02. 대한민국 조간 — 매일 반복되는 발행을 자동화하기
 
 > **매일 자료를 모으고 공개하는 일을 어떤 규칙으로 반복 실행할 수 있을까?**
@@ -97,11 +101,13 @@ Next.js·React·TypeScript·Sass로 반응형 교육 웹서비스 UI를 구축�
 
 ---
 
+<a id="subway-midpoint"></a>
+
 #### 03. subway-midpoint — ‘공평한 만남’을 계산 기준으로 바꾸기
 
 > **다른 역에서 출발할 때, 누구에게도 이동 부담이 쏠리지 않게 하려면?**
 
-**왜 만들었나** — 만날 장소를 정할 때 지도 한가운데만 보면, 분기와 환승이 많은 사람이 늘 손해를 봅니다. 그래서 '공평한 중간'을 **가장 오래 걸리는 사람의 예상 시간이 가장 짧은 역**으로 정의했습니다. 후보 A가 20분·40분, 후보 B가 32분·32분이면 합계는 같아도 B를 먼저 추천합니다.
+**왜 만들었나** — 만날 장소를 정할 때 지도 한가운데만 보면, 분기와 환승이 많은 사람이 늘 손해를 봅니다. 그래서 '공평한 중간'을 **가장 오래 걸리는 사람의 예상 시간이 가장 짧은 역**으로 정의했습니다. 후보 A가 20분·44분, 후보 B가 32분·32분이면 합계는 같아도 가장 오래 이동하는 사람의 부담이 작은 B를 먼저 추천합니다.
 
 **어떻게 풀었나**
 
@@ -116,6 +122,8 @@ Next.js·React·TypeScript·Sass로 반응형 교육 웹서비스 UI를 구축�
 [Live](https://minsangkwak.github.io/subway-midpoint/) · [Source](https://github.com/MinsangKwak/subway-midpoint)
 
 ---
+
+<a id="spring-mvc"></a>
 
 #### 04. Spring MVC — 화면 밖의 서버 동작 이해하기
 
@@ -135,43 +143,17 @@ Next.js·React·TypeScript·Sass로 반응형 교육 웹서비스 UI를 구축�
 
 [웹 실습](https://spring-mvc-k14y.onrender.com/) · [Swagger UI](https://spring-mvc-k14y.onrender.com/swagger-ui.html) · [Source](https://github.com/MinsangKwak/spring-mvc)
 
-### 🛠 Tech Stacks
+### 🛠 기술을 사용한 범위
 
-#### Frontend
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
+실무의 중심은 UI 구현과 프론트엔드입니다. 서버·데이터·자동화는 개인 서비스에서 활용했고, Spring MVC는 요청·응답을 이해하기 위한 학습 범위로 구분합니다.
 
-#### UI · Accessibility
-<div>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white">
-  <img src="https://img.shields.io/badge/Design_Tokens-555555?style=for-the-badge">
-  <img src="https://img.shields.io/badge/KWCAG_·_ARIA-005A9C?style=for-the-badge&logo=w3c&logoColor=white">
-</div>
-
-#### Server · Data · Operations
-<div>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
-</div>
+| 범위 | 기술 | 적용 경험 |
+| --- | --- | --- |
+| UI · 프론트엔드 | HTML · CSS · JavaScript · TypeScript · React · Next.js · Sass · jQuery | 금융 UI 구축·운영, 반응형 교육 서비스, 개인 서비스 |
+| 공통 UI · 접근성 | Design Token · Atomic Design · Storybook · KWCAG · ARIA | 컴포넌트·상태 규칙, 키보드 탐색, 포커스 이동·복귀 |
+| 개인 서비스의 서버 · 데이터 | Node.js · Fastify · Postgres · Python | moncamp의 API·데이터 처리, 대한민국 조간의 발행 처리 |
+| 검증 · 배포 · 운영 | Vitest · Playwright · GitHub Actions · GitHub Pages · Vercel · Cloud Run · Cloudflare | 회귀 검사, 빌드·배포, 운영 오류 대응 |
+| 백엔드 학습 | Java · Spring MVC · JUnit · MockMvc | 요청 바인딩, 서버 검증, 정상·오류 응답 비교 |
 
 ### 🧭 How I Work
 
@@ -179,6 +161,9 @@ Next.js·React·TypeScript·Sass로 반응형 교육 웹서비스 UI를 구축�
 - **반복은 공통 구조로** — 같은 버튼과 모달을 복사하지 않고 컴포넌트와 상태 규칙으로 정리합니다.
 - **접근성은 처음부터** — 키보드, 포커스, ARIA, 표 구조와 고대비를 초기 마크업에 넣습니다.
 - **출시 이후까지** — 수정 범위, 리소스 용량, QA와 배포 흐름까지 보고 구조를 정합니다.
+
+<details>
+<summary>GitHub 활동 · GitAnimals</summary>
 
 ### 📊 GitHub Stats
 
@@ -193,6 +178,14 @@ Next.js·React·TypeScript·Sass로 반응형 교육 웹서비스 UI를 구축�
   <img src="https://render.gitanimals.org/farms/MinsangKwak" width="600" alt="GitAnimals farm of MinsangKwak"/>
 </a>
 
+</details>
+
 ---
 
-채용 제안과 인터뷰 문의는 [minsangwork0821@gmail.com](mailto:minsangwork0821@gmail.com)으로 부탁드립니다. 프로젝트별 상세 기록은 **[Portfolio](https://kwakminsang.notion.site/overview)** 에 있습니다.
+### Contact
+
+채용 제안과 인터뷰 문의를 기다립니다. 회사별 상세 경력기술서는 요청해 주시면 보내 드리겠습니다.
+
+- **이메일:** [minsangwork0821@gmail.com](mailto:minsangwork0821@gmail.com)
+- **휴대폰:** [010-9816-9939](tel:01098169939)
+- **프로젝트 상세:** [Notion Portfolio](https://kwakminsang.notion.site/overview)
