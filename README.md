@@ -66,13 +66,15 @@ Next.js·React·TypeScript·Sass로 반응형 교육 웹서비스 UI를 구축�
 
 | 작업 | 결과 | 근거 |
 | --- | --- | --- |
-| 공통 스타일 정리 | 대상 CSS 100KB → 67KB, `!important` 48개 → 0개 | [PR #180](https://github.com/MinsangKwak/pogo-rank/pull/180) |
-| 이미지 경량화 | 대상 자산 PNG 21MB → WebP 1.4MB | [PR #181](https://github.com/MinsangKwak/pogo-rank/pull/181) |
-| React 전환 | 비교한 20개 화면의 글자·구조 차이 0건 | [PR #104](https://github.com/MinsangKwak/pogo-rank/pull/104) |
+| 공통 스타일 정리 | 대상 CSS 100KB → 67KB, `!important` 48개 → 0개 | 변경 기록 #180 · 요청 시 제공 |
+| 이미지 경량화 | 대상 자산 PNG 21MB → WebP 1.4MB | 변경 기록 #181 · 요청 시 제공 |
+| React 전환 | 비교한 20개 화면의 글자·구조 차이 0건 | 변경 기록 #104 · 요청 시 제공 |
 
 <sub>수치는 각 작업 당시의 대상에 한정합니다. 서비스 전체 속도나 이용자 증가로 넓혀 말하지 않습니다. 2026.09.01부터 운영 중이며, 2026.10.22 기준 v6.4.4입니다.</sub>
 
-[Live](https://moncamp.kr/) · [Source](https://github.com/MinsangKwak/pogo-rank)
+[Live](https://moncamp.kr/)
+
+소스코드는 비공개로 관리하며, 채용 검토를 위해 [이메일](mailto:minsangwork0821@gmail.com)로 요청하시면 열람 권한을 제공해 드립니다.
 
 ---
 
